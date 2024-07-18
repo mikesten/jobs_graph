@@ -77,7 +77,7 @@ lucky: Fabric -> 1000Heads -> Freelance -> Hogarth -> Fabric -> Freelance -> Wun
 mattbee: Gyro -> 9web -> Fabric -> National Theatre -> FutureLearn -> Made Tech -> ImpactEd
 matthias: recollective -> Less Rain -> Freelance -> Design Science Office -> Photobox
 Meri Williams: GDS -> Vodafone -> myHealthPal -> M&S -> Moo -> Monzo -> Healx
-Mike Stenhouse: Trampoline -> Aframe 
+Mike Stenhouse: Trampoline -> Aframe -> Excession -> General System -> Freelance
 mikeb: siteDoc -> cloudMap -> calcResult
 MikeD:  Yahoo! -> LOVEFiLM -> Tizaro -> InstaSupply -> Mogul News -> ZOE
 mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder -> GDS -> Freelance -> Unmade -> Lyst -> Weaveworks -> Automata
@@ -90,7 +90,7 @@ muz: Last.fm -> Mendeley -> BBC -> blinkbox -> idio -> Optimizely -> Shopify
 natbat: Torchbox -> Clearleft -> Lanyrd -> Eventbrite -> ?
 Nat Buckley: If -> Bulb -> Attest
 neilcrosby: Yahoo!  -> BBC -> LOVEFiLM -> Amazon -> Tizaro -> InstaSupply -> Tails.com
-Nicky: Moo -> Freelance -> FutureLearn -> Freelance -> FutureLearn -> dxw
+Nicky: Moo -> Freelance -> FutureLearn -> Freelance -> FutureLearn
 palfrey: Spotlight -> LShift -> Babylon Health
 paulcuth: ATS -> Gamesys -> IG -> Import.io -> Synthace -> Monzo
 pete goodman: Tonic -> Pirata -> f90
