@@ -80,7 +80,7 @@ mattbee: Gyro -> 9web -> Fabric -> National Theatre -> FutureLearn -> Made Tech 
 matthias: recollective -> Less Rain -> Freelance -> Design Science Office -> Photobox
 mattg: Global -> mattg -> Freelance -> mattg -> CBS News -> mattg -> Bauer -> mattg -> mattg
 Meri Williams: GDS -> Vodafone -> myHealthPal -> M&S -> Moo -> Monzo -> Healx
-Mike Stenhouse: Trampoline -> Aframe -> Excession -> General System -> Freelance
+Mike Stenhouse: Trampoline -> Aframe -> Excession -> General System -> Freelance -> IntentHQ
 mikeb: siteDoc -> cloudMap -> calcResult
 MikeD:  Yahoo! -> LOVEFiLM -> Tizaro -> InstaSupply -> Mogul News -> ZOE
 mnowster: tangozebra -> Acknowledge -> Glasses Direct -> Artfinder -> GDS -> Freelance -> Unmade -> Lyst -> Weaveworks -> Automata
